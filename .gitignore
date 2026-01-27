@@ -1,0 +1,16 @@
+# App
+realcode/node_modules/
+realcode/.next/
+realcode/.env
+
+# Terraform
+terraform/.terraform/
+terraform/terraform.tfstate*
+terraform/*.tfvars
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
